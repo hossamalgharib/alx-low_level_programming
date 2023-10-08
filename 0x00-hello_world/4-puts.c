@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * it's boring
+ * main - it's entry point
+ *
+ *  and it's  booooring
  */
 int main(void)
 {
