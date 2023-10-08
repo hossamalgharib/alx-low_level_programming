@@ -4,6 +4,8 @@
  * main - it's entry point
  *
  *  and it's  booooring
+ *
+ * Return: Always 0
  */
 int main(void)
 {
